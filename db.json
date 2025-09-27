@@ -1,0 +1,11 @@
+{
+  "todos": [
+    { "id": 1, "task": "Learn React", "completed": false },
+    { "id": 2, "task": "Practice JSON Server", "completed": true }
+  ],
+  "users": [
+    { "id": 1, "name": "Rashad", "email": "rashad@example.com" },
+    { "id": 2, "name": "Rashad", "email": "rashad@example.com" },
+    { "id": 3, "name": "Rafa", "email": "rafah@gmail.com" }
+  ]
+}
